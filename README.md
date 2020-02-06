@@ -1,1 +1,1 @@
-Amiga CD32 Rev4.1 Gerber files converted from SVG data at amigapcb.org
+Amiga 4000T Rev4 Gerber files converted from SVG data at amigapcb.org
